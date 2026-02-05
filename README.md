@@ -1,29 +1,31 @@
 # FUTURE_DS_02
 
-📊 Key Business Insights
-The Churn Baseline: Our overall churn rate is 26.54%, meaning 1 in 4 customers leaves the service.
+Main Findings from the Data
+Churn Baseline: I found that about 26.5% of our customers end up leaving. This means roughly 1 out of every 4 people stops using the service.
 
-The "Danger Zone": New customers are the highest risk; 47% of users churn within their first 12 months.
+The First Year: The first 12 months are the most difficult. Almost half (47%) of the customers who leave do so within their first year.
 
-Contract Power: Customers on Month-to-month plans are significantly more likely to leave than those on long-term plans.
+Contract Types: There is a big difference between contracts. People who pay month-to-month leave much more often than those who sign up for a year or two.
 
-Loyalty Reward: Once a customer stays past 2 years, the probability of them leaving drops below 20%.
+Long-term Loyalty: If we can keep a customer for more than 2 years, they usually stay for a long time, and the chance of them leaving drops significantly (below 20%).
 
-Value of Tenure: High-tenure customers provide a much higher Lifetime Value (CLV), averaging over $2,000 in total revenue.
+Customer Value: Customers who stay longer are much more profitable, bringing in over $2,000 on average throughout their time with us.
 
-Service Impact: Lack of "Tech Support" or "Online Security" is a major predictor of customer departure.
+Support Services: People who don't have Tech Support or Online Security features tend to quit much faster than those who do.
 
-Final Conclusion & Business Summary
-Project Goal: The objective was to analyze customer behavior to identify why users leave (churn) and how to keep them longer.
+What I discovered:
 
-Key Finding 1: The Month-to-Month contract is the biggest driver of churn. Customers on these plans are over 3 times more likely to leave than those on long-term contracts.
+Contract issues: The biggest reason people leave is the month-to-month plan. These customers quit 3 times more often than those on long-term contracts.
 
-Key Finding 2: The first 12 months are the most critical. If a customer stays past the one-year mark, their probability of staying for 5+ years increases significantly.
+The 1-year mark: The first year is the most important. If a customer stays past their first anniversary, they are much more likely to stay for many years.
 
-Key Finding 3: High Monthly Charges combined with a lack of Tech Support services leads to faster churn.
+High costs: Customers leave faster when their monthly bills are high, especially if they don't have tech support to help them.
 
-Final Recommendation: To improve retention, the company should offer "Year 1" loyalty discounts and move at-risk month-to-month customers onto annual plans.
+My Recommendations:
 
-Outcome: By implementing these strategies, the company can protect its Customer Lifetime Value (CLV) and ensure long-term revenue stability.
+We should give discounts to customers during their first year to keep them happy.
 
+We should try to get month-to-month users to switch to yearly plans by offering them a better deal.
+
+This will help the company keep more customers and make more revenue in the long run.
 
